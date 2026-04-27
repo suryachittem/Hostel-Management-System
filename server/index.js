@@ -32,10 +32,13 @@ app.use('/api/payments', require('./routes/payments'));
 app.use('/api/menu', require('./routes/menu'));
 
 // Health check
-app.get('/api/health', (req, res) => {
-  res.json({ status: 'OK', message: 'Hostel Management API running' });
+// Health check
+app.get('/', (req, res) => {
+  res.json({ status: 'OK', message: 'Hostel Management API is running 🚀' });
 });
-
+app.get('/api/health', (req, res) => {
+  res.json({ status: 'OK', message: 'Hostel Management API is running 🚀', env: process.env.NODE_ENV });
+});
 // Global error handler
 app.use((err, req, res, next) => {
   console.error(err.stack);
