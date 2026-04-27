@@ -22,20 +22,6 @@
 
 ---
 
-## 📸 Screenshots
-
-<div align="center">
-
-| Login Page | Admin Dashboard |
-|:---:|:---:|
-| ![Login](https://via.placeholder.com/480x300/0f172a/6366f1?text=Login+Page) | ![Admin](https://via.placeholder.com/480x300/0f172a/6366f1?text=Admin+Dashboard) |
-
-| Student Dashboard | Payment Receipt |
-|:---:|:---:|
-| ![Student](https://via.placeholder.com/480x300/0f172a/6366f1?text=Student+Dashboard) | ![Receipt](https://via.placeholder.com/480x300/0f172a/6366f1?text=PDF+Receipt) |
-
-</div>
-
 ---
 
 ## ✨ Features
