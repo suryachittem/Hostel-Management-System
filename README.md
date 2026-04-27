@@ -16,7 +16,7 @@
 
 <br/>
 
-**[🌐 Live Demo](https://hostel-management-client-pv9v.onrender.com/login)** • **[🐛 Report Bug](https://github.com/issues)** • **[✨ Request Feature](https://github.com/issues)**
+**[🌐 Live Demo](https://hostel-management-client-pv9v.onrender.com/login)** 
 
 </div>
 
