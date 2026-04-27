@@ -22,8 +22,6 @@
 
 ---
 
----
-
 ## ✨ Features
 
 ### 🔐 Authentication & Security
@@ -98,10 +96,10 @@
 ### 💳 Test Payment Card
 
 ```
-Card Number : 4242 4242 4242 4242
-Expiry      : 12/28
-CVC         : 123
-ZIP         : 10001
+Card Number : **** **** **** ****
+Expiry      : MM/YY
+CVC         : ***
+ZIP         : *****
 ```
 
 ---
@@ -377,16 +375,3 @@ FoodMenu Collection
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
-
-<div align="center">
-
-**Built with ❤️ using the MERN Stack**
-
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://mongodb.com)
-[![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com)
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org)
-
-⭐ **Star this repo if you found it helpful!** ⭐
-
-</div>
